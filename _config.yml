@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Su Dayong"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Su Dayong"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://slrl123.github.io/SuDayong.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,10 +25,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "YunNan China"
+  employer         : "KUST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dayongsu@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
