@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 苏大勇，昆明理工大学信息工程与自动化学院学生
-[Email](dayongsu@outlook.com) / [Wechat](./images/wechat.jpg)
+[Email](dayongsu@outlook.com) / [Wechat](../images/wechat.jpg)
 
 标题1
 ======
