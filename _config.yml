@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Su Dayong"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Su Dayong"
 description              : &description "personal description"
