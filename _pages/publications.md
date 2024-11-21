@@ -1,10 +1,10 @@
 ---
-permalink: /
+layout: archive
 title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+redirect_from:
+  - /resume
 ---
 You can also find my articles on my Google Scholar profile.
 
