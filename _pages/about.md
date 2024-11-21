@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Huafeng Li"
+title: "Huafeng Li (李华锋)"
 author_profile: true
 redirect_from: 
   - /about/
