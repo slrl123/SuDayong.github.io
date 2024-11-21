@@ -12,6 +12,6 @@ redirect_from:
 
 * 云南省昆明市呈贡新区景明南路727号（昆明理工大学信自楼537）
 
-* Email:hfchina99@163.com
+* Email: hfchina99@163.com
   
 
