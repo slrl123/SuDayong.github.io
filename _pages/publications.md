@@ -14,8 +14,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 2024
 ======
 <div style="text-align: justify;">
-1. Huafeng Li, Zhenmei Yang, Yafei Zhang, Dapeng Tao, Zhengtao Yu, [Single-Image HDR Reconstruction Assisted Ghost Suppression and Detail Preservation Network for Multi-Exposure HDR Imaging](https://ieeexplore.ieee.org/abstract/document/10465638), IEEE Transactions on Computational Imaging, 2024.
-
+{{
+1. Huafeng Li, Zhenmei Yang, Yafei Zhang, Dapeng Tao, Zhengtao Yu, [Single-Image HDR Reconstruction Assisted Ghost Suppression and Detail Preservation Network for Multi-Exposure HDR Imaging](https://ieeexplore.ieee.org/abstract/document/10465638), IEEE Transactions on Computational Imaging, 2024.}}
+</div>
 2. Fan Li, Hang Zhou, Huafeng Li, Yafei Zhang, Zhengtao Yu, [Person text-image matching via text-feature interpretability embedding and external attack node implantation](https://ieeexplore.ieee.org/abstract/document/10701572), IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.
 3. Minghong Xie, Mengzhao Wang, Huafeng Li, Yafei Zhang, Dapeng Tao, Zhengtao Yu, [Phrase Decoupling Cross-Modal Hierarchical Matching and Progressive Position Correction for Visual Grounding](https://arxiv.org/abs/2410.23570), arXiv preprint arXiv:2410.23570, 2024.
 4. Huafeng Li, Chen Zhang, Zhanxuan Hu, Yafei Zhang, Zhengtao Yu, [Interactive attack-defense for generalized person re-identification](https://www.sciencedirect.com/science/article/abs/pii/S0893608024002739), Neural Networks, vol. 176, pp. 106349, 2024, Elsevier.
@@ -32,7 +33,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 15. Huafeng Li, Qingsong Hu, Zhanxuan Hu, [Prototype-Driven and Multi-Expert Integrated Multi-Modal MR Brain Tumor Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10755138), IEEE Transactions on Instrumentation and Measurement, 2024.
 16. 磊 万, 华锋 李, 亚飞 张, [多模态特征融合和自蒸馏的红外-可见光行人重识别](https://www.jcad.cn/cn/article/id/01ea269a-2c53-4c9e-8e24-dca9ce886115), 计算机辅助设计与图形学学报, 2024.
 17. 彦嵋 毛, 华锋 李, 亚飞 张, [面向跨区域场景的无监督域自适应行人重识别 (网络首发)](), 上海交通大学学报, pp. 0, 2024.
-</div>
+
 
 2023
 ======
