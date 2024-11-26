@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+<div style="text-align: justify;">
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=njjX8D0AAAAJ&hl=en&oi=ao).
 
 2024
@@ -146,5 +149,8 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 1. Jiaxin Zhai; Zhengtao Yu; Huafeng Li; Yantuan Xian. The Design of Digit Recognition Teaching Experiment Based on PCA and BP Neural Network. *27th Chinese Control and Decision Conference (CCDC2015)*. (EI Indexed)
 
 2. Huafeng Li; Zhengtao Yu. Multifocus image fusion scheme based on the multiscale curvature in nonsubsampled contourlet transform domain. *Optical Engineering*. (SCI Indexed)
+
+</div>
+
 
 
