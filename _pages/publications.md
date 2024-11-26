@@ -45,7 +45,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 2022
 ======
-<div style="text-align: justify;">
+
 1. Xinyu Lin; Jinxing Li; Zeyu Ma; Huafeng Li; Shuang Li; Kaixiong Xu; Guangming Lu; David Zhang. Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification. *2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. (ISTP Indexed)
 2. Shuang Li; Fan Li; Kunpeng Wang; Guanqiu Qi; Huafeng Li. Mutual prediction learning and mixed viewpoints for unsupervised-domain adaptation person re-identification on blockchain. *Simulation Modelling Practice and Theory*. (ISTP Indexed)
 3. Meng Wang; Zhengbing Guo; Huafeng Li. A Dynamic Routing CapsNet based on Increment Prototype Clustering for Overcoming Catastrophic Forgetting. *IET Computer Vision*. (ISTP Indexed)
@@ -59,7 +59,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 11. Huafeng Li; Neng Dong; Zhengtao Yu; Dapeng Tao; Guanqiu Qi. Triple Adversarial Learning and Multi-View Imaginative Reasoning for Unsupervised Domain Adaptation Person Re-Identification. *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*. (ISTP Indexed)
 12. Huafeng Li; Jirui Gao; Yafei Zhang; Minghong Xie; Zhengtao Yu. Haze transfer and feature aggregation network for real-world single image dehazing. *Knowledge-Based Systems*. (ISTP Indexed)
 13. Shujuan Wang; Bochun Huang; Huafeng Li; Guanqiu Qi; Dapeng Tao; Zhengtao Yu. Key point-aware occlusion suppression and semantic alignment for occluded person re-identification. *Information Sciences*. (ISTP Indexed)
-</div>
+
 
 2021
 ======
