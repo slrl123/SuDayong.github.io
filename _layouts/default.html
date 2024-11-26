@@ -9,7 +9,35 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333333;
+            margin: 20px;
+        }
+
+        h1 {
+            color: #2c3e50;
+        }
+
+        .justify {
+            text-align: justify;
+            text-justify: inter-word;
+            line-height: 1.6;
+        }
+
+        /* 可选：调整链接样式 */
+        a {
+            color: #1a0dab;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
   </head>
 
   <body>
