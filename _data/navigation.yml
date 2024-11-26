@@ -6,14 +6,14 @@
 
 main:
 
-  - title: "Publications"
+  - title: "PUBLICATIONS"
     url: /publications/
-    
-  - title: "Grop Members"
-    url: /portfolio/
-    
-  - title: "CV"
+
+  - title: "PROFILE"
     url: /cv/
+    
+  - title: "CVIP CROUP"
+    url: /portfolio/
     
   - title: "CONTACT"
     url: /markdown/
