@@ -1,0 +1,10 @@
+/* custom.css */
+
+.justify-text {
+    text-align: justify;
+}
+
+/* 可选：调整列表项的对齐 */
+.justify-text li {
+    text-align: justify;
+}
