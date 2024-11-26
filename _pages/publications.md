@@ -14,8 +14,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 2024
 ======
 <div style="text-align: justify;">
-{{
-1. Huafeng Li, Zhenmei Yang, Yafei Zhang, Dapeng Tao, Zhengtao Yu, [Single-Image HDR Reconstruction Assisted Ghost Suppression and Detail Preservation Network for Multi-Exposure HDR Imaging](https://ieeexplore.ieee.org/abstract/document/10465638), IEEE Transactions on Computational Imaging, 2024.}}
+<p>
+1. Huafeng Li, Zhenmei Yang, Yafei Zhang, Dapeng Tao, Zhengtao Yu, [Single-Image HDR Reconstruction Assisted Ghost Suppression and Detail Preservation Network for Multi-Exposure HDR Imaging](https://ieeexplore.ieee.org/abstract/document/10465638), IEEE Transactions on Computational Imaging, 2024.
+</p>
 </div>
 2. Fan Li, Hang Zhou, Huafeng Li, Yafei Zhang, Zhengtao Yu, [Person text-image matching via text-feature interpretability embedding and external attack node implantation](https://ieeexplore.ieee.org/abstract/document/10701572), IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.
 3. Minghong Xie, Mengzhao Wang, Huafeng Li, Yafei Zhang, Dapeng Tao, Zhengtao Yu, [Phrase Decoupling Cross-Modal Hierarchical Matching and Progressive Position Correction for Visual Grounding](https://arxiv.org/abs/2410.23570), arXiv preprint arXiv:2410.23570, 2024.
