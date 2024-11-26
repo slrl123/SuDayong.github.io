@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
 <div style="text-align: justify;">
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=njjX8D0AAAAJ&hl=en&oi=ao).
 
