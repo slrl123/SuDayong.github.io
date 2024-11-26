@@ -10,8 +10,10 @@ redirect_from:
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=njjX8D0AAAAJ&hl=en&oi=ao).
 
+
 2024
 ======
+<div style="text-align: justify;">
 1. Huafeng Li, Zhenmei Yang, Yafei Zhang, Dapeng Tao, Zhengtao Yu, [Single-Image HDR Reconstruction Assisted Ghost Suppression and Detail Preservation Network for Multi-Exposure HDR Imaging](https://ieeexplore.ieee.org/abstract/document/10465638), IEEE Transactions on Computational Imaging, 2024.
 2. Fan Li, Hang Zhou, Huafeng Li, Yafei Zhang, Zhengtao Yu, [Person text-image matching via text-feature interpretability embedding and external attack node implantation](https://ieeexplore.ieee.org/abstract/document/10701572), IEEE Transactions on Emerging Topics in Computational Intelligence, 2024.
 3. Minghong Xie, Mengzhao Wang, Huafeng Li, Yafei Zhang, Dapeng Tao, Zhengtao Yu, [Phrase Decoupling Cross-Modal Hierarchical Matching and Progressive Position Correction for Visual Grounding](https://arxiv.org/abs/2410.23570), arXiv preprint arXiv:2410.23570, 2024.
@@ -29,7 +31,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 15. Huafeng Li, Qingsong Hu, Zhanxuan Hu, [Prototype-Driven and Multi-Expert Integrated Multi-Modal MR Brain Tumor Image Segmentation](https://ieeexplore.ieee.org/abstract/document/10755138), IEEE Transactions on Instrumentation and Measurement, 2024.
 16. 磊 万, 华锋 李, 亚飞 张, [多模态特征融合和自蒸馏的红外-可见光行人重识别](https://www.jcad.cn/cn/article/id/01ea269a-2c53-4c9e-8e24-dca9ce886115), 计算机辅助设计与图形学学报, 2024.
 17. 彦嵋 毛, 华锋 李, 亚飞 张, [面向跨区域场景的无监督域自适应行人重识别 (网络首发)](), 上海交通大学学报, pp. 0, 2024.
-
+</div>
 2023
 ======
 1. Huafeng Li; Junzhi Zhao; Jinxing Li; Zhengtao Yu; Guangming Lu. Feature dynamic alignment and refinement for infrared–visible image fusion: Translation robust fusion. *Information Fusion*. (ISTP Indexed)
@@ -44,6 +46,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 2022
 ======
+<div style="text-align: justify;">
 1. Xinyu Lin; Jinxing Li; Zeyu Ma; Huafeng Li; Shuang Li; Kaixiong Xu; Guangming Lu; David Zhang. Learning Modal-Invariant and Temporal-Memory for Video-based Visible-Infrared Person Re-Identification. *2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*. (ISTP Indexed)
 2. Shuang Li; Fan Li; Kunpeng Wang; Guanqiu Qi; Huafeng Li. Mutual prediction learning and mixed viewpoints for unsupervised-domain adaptation person re-identification on blockchain. *Simulation Modelling Practice and Theory*. (ISTP Indexed)
 3. Meng Wang; Zhengbing Guo; Huafeng Li. A Dynamic Routing CapsNet based on Increment Prototype Clustering for Overcoming Catastrophic Forgetting. *IET Computer Vision*. (ISTP Indexed)
@@ -57,13 +60,16 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 11. Huafeng Li; Neng Dong; Zhengtao Yu; Dapeng Tao; Guanqiu Qi. Triple Adversarial Learning and Multi-View Imaginative Reasoning for Unsupervised Domain Adaptation Person Re-Identification. *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*. (ISTP Indexed)
 12. Huafeng Li; Jirui Gao; Yafei Zhang; Minghong Xie; Zhengtao Yu. Haze transfer and feature aggregation network for real-world single image dehazing. *Knowledge-Based Systems*. (ISTP Indexed)
 13. Shujuan Wang; Bochun Huang; Huafeng Li; Guanqiu Qi; Dapeng Tao; Zhengtao Yu. Key point-aware occlusion suppression and semantic alignment for occluded person re-identification. *Information Sciences*. (ISTP Indexed)
+</div>
 
 2021
 ======
+<div style="text-align: justify;">
 1. Li Huafeng; Yang Moyuan; Yu Zhengtao. Joint image fusion and super-resolution for enhanced visualization via semi-coupled discriminative dictionary learning and advantage embedding. *Neurocomputing*. (ISTP Indexed)
 2. Huafeng Li; Yiwen Chen; Dapeng Tao; Zhengtao Yu; Guanqiu Qi. Attribute-Aligned Domain-Invariant Feature Learning for Unsupervised Domain Adaptation Person Re-Identification. *IEEE Transactions on Information Forensics and Security*. (ISTP Indexed)
 3. Li Huafeng; Cen Yueliang; Liu Yu; Chen Xun; Yu Zhengtao. Different Input Resolutions and Arbitrary Output Resolution: A Meta Learning-Based Deep Framework for Infrared and Visible Image Fusion. *IEEE Transactions on Image Processing*. (ISTP Indexed)
 4. Li Huafeng; Pang Jian; Tao Dapeng; Yu Zhengtao. Cross adversarial consistency self-prediction learning for unsupervised domain adaptation person re-identification. *Information Sciences*. (ISTP Indexed)
+</div>
 
 2020
 ======
